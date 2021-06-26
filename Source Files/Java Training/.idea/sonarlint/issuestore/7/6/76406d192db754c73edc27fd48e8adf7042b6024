@@ -1,0 +1,40 @@
+
+D
+java:S1444".Make this "public static balance2" field final(ˆûû¥
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à÷ÂÙùÿÿÿÿ
+j
+java:S1104"TMake balance2 a static final constant or non-public and provide accessors if needed.(ˆûû¥
+U
+java:S1854":Remove this useless assignment to local variable "number".(ÚÆ·»ûÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "atSign".(•Éñòýÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "medium".(ˆš‰¨
+\
+java:S1854":Remove this useless assignment to local variable "median".(­ƒœ­ûÿÿÿÿ8¾‚½¼¤/
+W
+java:S1854"5Remove this useless assignment to local variable "a".(ø«Ú“øÿÿÿÿ8ÿ³ ¼¤/
+Q
+java:S6212"/Declare this local variable with "var" instead.(­ƒœ­ûÿÿÿÿ8¾‚½¼¤/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ñíð8€´ ¼¤/
+X	java:S125"<This block of commented-out lines of code should be removed.(Îô¡8éü ¼¤/
+E
+java:S6212"/Declare this local variable with "var" instead.(ˆš‰¨
+J
+java:S6212"/Declare this local variable with "var" instead.(•Éñòýÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ÚÆ·»ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šåÚÒûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(˜Ÿæºþÿÿÿÿ
+H
+java:S1481"&Remove this unused "a" local variable.(ø«Ú“øÿÿÿÿ8´ ¼¤/
+M
+java:S1481"+Remove this unused "median" local variable.(­ƒœ­ûÿÿÿÿ8¾‚½¼¤/
+A
+java:S1481"+Remove this unused "medium" local variable.(ˆš‰¨
+F
+java:S1481"+Remove this unused "atSign" local variable.(•Éñòýÿÿÿÿ
+F
+java:S1481"+Remove this unused "number" local variable.(ÚÆ·»ûÿÿÿÿ
+C
+java:S1481"-Remove this unused "balance1" local variable.(½Àõ‰
