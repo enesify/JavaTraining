@@ -1,4 +1,4 @@
-package tr.org.bura.egitim.java.chapter4;
+package tr.org.bura.egitim.java.chapter05;
 
 public class Arrays {
     public static void main(String[] args) {
