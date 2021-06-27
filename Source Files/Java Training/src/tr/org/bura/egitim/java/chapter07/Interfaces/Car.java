@@ -1,4 +1,4 @@
-package tr.org.bura.egitim.java.chapter7.Interfaces;
+package tr.org.bura.egitim.java.chapter07.Interfaces;
 
 public class Car implements OperateCar , RepairCar {
     @Override

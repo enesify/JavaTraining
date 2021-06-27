@@ -1,6 +1,6 @@
-package tr.org.bura.egitim.java.chapter7;
+package tr.org.bura.egitim.java.chapter07;
 
-import tr.org.bura.egitim.java.chapter7.Interfaces.OperateCar;
+import tr.org.bura.egitim.java.chapter07.Interfaces.OperateCar;
 
 public class Sedan extends Car implements OperateCar {
     public Sedan() {

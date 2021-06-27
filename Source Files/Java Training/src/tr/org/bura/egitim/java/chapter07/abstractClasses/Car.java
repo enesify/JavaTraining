@@ -1,4 +1,4 @@
-package tr.org.bura.egitim.java.chapter7.abstractClasses;
+package tr.org.bura.egitim.java.chapter07.abstractClasses;
 
 public abstract class Car {
     public void accelerate(){

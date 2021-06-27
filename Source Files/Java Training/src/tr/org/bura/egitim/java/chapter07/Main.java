@@ -1,4 +1,4 @@
-package tr.org.bura.egitim.java.chapter7;
+package tr.org.bura.egitim.java.chapter07;
 
 public class Main {
     public static void main(String[] args) {
