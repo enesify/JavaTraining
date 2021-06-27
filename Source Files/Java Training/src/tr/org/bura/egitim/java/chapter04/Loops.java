@@ -1,5 +1,9 @@
 package tr.org.bura.egitim.java.chapter04;
 
+
+
+import tr.org.bura.egitim.java.chapter06.Car;
+
 import java.util.Scanner;
 
 public class Loops {
@@ -42,13 +46,13 @@ public class Loops {
 
         // while loop from 1 to 5
         // this is wrong usage of the continue statement
-        /*while(firstNumber <= lastNumber) {
+        while(firstNumber <= lastNumber) {
             if(firstNumber == 3){
                 continue;
             }
             System.out.println(firstNumber);
             firstNumber++;
-        }*/
+        }
         //this is the correct one
         while(firstNumber <= lastNumber) {
             if(firstNumber == 3){
@@ -95,6 +99,9 @@ public class Loops {
             System.out.println("Inside of do-while loop");
             a++;
         }while(a < 10);
+
+        Car honda = new Car();
+        honda.displayName();
 
     }
 }
