@@ -1,22 +1,23 @@
-package tr.org.bura.egitim.java.chapter10;
+package tr.org.bura.egitim.java.chapter10.enums;
 
 import tr.org.bura.egitim.java.chapter10.enums.Direction;
 
 public class Main {
 
-    public static final int START = 1;
-    public static final int WAITING = 2;
+ /*   public static final int START = 1;
+    public static final int WAITING = 20;
     public static final int RUNNING = 3;
-    public static final int STOP = 4;
+    public static final int STOP = 4;*/
 
-    public enum inClassEnum {
+    //class member enum definition
+    /*public enum MeetingAcceptance {
         ACCEPT,
         DENY,
         TENTATIVE
-    }
+    }*/
 
     //problems of value constant
-    public static String getConstantString(int constantValue){
+   /* public static String getConstantString(int constantValue){
         String constantString = "";
         if (constantValue == 1){
             constantString = "START";
@@ -24,7 +25,7 @@ public class Main {
         else if (constantValue == 2){
             constantString = "WAITING";
         }
-        else if (constantValue == 32){
+        else if (constantValue == 3){
             constantString = "RUNNING";
         }
         else if (constantValue == 4){
@@ -35,14 +36,19 @@ public class Main {
         }
 
         return constantString;
-    }
+    }*/
 
     public static void main(String[] args) {
 
+       /* MeetingAcceptance acceptance = MeetingAcceptance.ACCEPT;
 
-        System.out.println(getConstantString(3));
+        System.out.println(acceptance.name());
+        System.out.println(acceptance.ordinal());*/
 
-        System.out.println("-----------");
+
+       // System.out.println(getConstantString(2));
+
+       // System.out.println("-----------");
 
 
         Direction north = Direction.NORTH;

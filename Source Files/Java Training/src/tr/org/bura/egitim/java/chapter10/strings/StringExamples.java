@@ -6,10 +6,11 @@ import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class StringExamples {
     public static void main(String[] args) {
         //creating with String Literal
         String healthTip1 = "You should drink at least 2 liter water daily!";
+        //healthTip1 = "Change the string";
         String healthTip2 = "You should drink at least 2 liter water daily!";
         String healthTip3 = "You should drink at least 2 liter water daily!";
         String healthTip4 = "You should drink at least 2 liter water daily!";
@@ -18,15 +19,21 @@ public class Main {
         System.out.println(healthTip1.equals(healthTip2));
 
         //creating with String Object
-        String healthTip6 = new String("You should drink at least 2 liter water daily!");
+       /* String healthTip6 = new String("You should drink at least 2 liter water daily!");
         System.out.println(healthTip1 == healthTip6);
         System.out.println(healthTip1.equals(healthTip6));
 
         //String Methods
         byte[] stringBytes = healthTip1.getBytes(StandardCharsets.UTF_8);
-        System.out.println(stringBytes);
+       /* System.out.println(stringBytes);
+        for (byte byteItem :
+                stringBytes) {
+            System.out.println(byteItem);
+        }*/
 
         String greeting = "Hi everyone, how are you?";
+        String subGreeting = greeting.substring(6);
+        System.out.println(subGreeting);
         String subGreeting1 = greeting.substring(0, greeting.indexOf(','));
         String subGreeting2 = greeting.substring(greeting.indexOf(',') + 2);
         System.out.println(subGreeting1);
@@ -36,28 +43,31 @@ public class Main {
         System.out.println(subGreeting1.concat(", ").concat(subGreeting2));
         for (char c :
                 greeting.toCharArray()) {
-            System.out.println(c);
+            System.out.print(c + "-");
         }
-
-
+        System.out.println();
 
         //print a string with reverse array
         char[] greetingChars = greeting.toCharArray();
 
-        for (int i = greeting.length()-1; i>=0; i--){
+        for (int i = 0; i < greeting.length(); i++) {
+            System.out.print(greetingChars[i]);
+        }
+
+        for (int i = greeting.length() - 1; i>=0; i--){
             System.out.print(greetingChars[i]);
         }
 
         //Java 8 join method
         System.out.println();
-        System.out.println(String.join("-", new String[]{"Hi","are", "you", "okay"}));
+        System.out.println(String.join("@@", new String[]{"Hi","are", "you", "okay"}));
 
         //Java 11 String Methods
         String onlyContainsWhitespaces = "  ";
         System.out.println(onlyContainsWhitespaces.isEmpty());
         System.out.println(onlyContainsWhitespaces.isBlank());
 
-        String school = "Bogazici \nUniversity";
+        String school = "Bogazici \nUniversity \nIstanbul";
         school.lines().forEach(c -> System.out.println(c));
 
         String nonStrippedString = " This is the String chapter of the Java course.        ";
@@ -65,6 +75,9 @@ public class Main {
         System.out.println(nonStrippedString.stripLeading());
         System.out.println(nonStrippedString.stripTrailing());
         System.out.println(nonStrippedString.strip());
+
+
+
 
 
 
