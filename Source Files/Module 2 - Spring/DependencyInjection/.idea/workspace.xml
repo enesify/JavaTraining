@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d791c0e-a7bb-45f8-9a65-7789bfced850" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/couplingExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/couplingExample/DieselEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/decouplingExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/decouplingExample/DieselEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/decouplingExample/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/decouplingExample/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/decouplingExample/NuclearEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tr/org/bura/training/java/decouplingExample/SuperCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/libraries/mysql_connector_java_8_0_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter15/callable/CallableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter15/callable/FactorialCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter15/runnable/CounterRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter15/runnable/RunnableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter15/thread/MyExtendedThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter15/thread/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/jdbcConnection/MysqlConnectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/jdbcDeleteExamples/DeleteExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/jdbcInsertExamples/InsertExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/jdbcPreparedStatementExamples/PreparedStatementExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/jdbcSelectExamples/SelectExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/jdbcUpdateExample/UpdateExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/tr/org/bura/egitim/java/chapter16/util/SqlConnectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LombokExamples/src/main/java/tr/org/bura/training/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LombokExamples/src/main/java/tr/org/bura/training/java/PersonWithLombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/src/main/java/tr/org/bura/training/java/jdbcExamplesWithMaven/JdbcExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/src/main/java/tr/org/bura/training/java/jdbcExamplesWithMaven/util/SqlConnectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/src/test/java/tr/org/bura/training/java/jdbcExamplesWithMaven/util/SqlConnectionUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/classes/tr/org/bura/training/java/jdbcExamplesWithMaven/JdbcExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/classes/tr/org/bura/training/java/jdbcExamplesWithMaven/util/SqlConnectionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/mySqlSample-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenExampleProject/target/test-classes/tr/org/bura/training/java/jdbcExamplesWithMaven/util/SqlConnectionUtilTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Training/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Training/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Training/out/production/Java/tr/org/bura/egitim/java/chapter14/AuthorOfClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Training/out/production/Java/tr/org/bura/egitim/java/chapter14/AuthorOfClass.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1v4zIkdRY1A5khlPprqwEQeHHN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tr.org.bura.training.java.decouplingExample.Main" />
+      <module name="DependencyInjection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tr.org.bura.training.java.decouplingExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d791c0e-a7bb-45f8-9a65-7789bfced850" name="Default Changelist" comment="" />
+      <created>1625836072720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625836072720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
