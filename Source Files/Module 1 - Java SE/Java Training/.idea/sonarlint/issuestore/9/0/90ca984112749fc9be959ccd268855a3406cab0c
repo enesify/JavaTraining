@@ -1,0 +1,8 @@
+
+1
+java:S36266"Remove this redundant jump.(ûÁİ…
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(×şÀü
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(±Öö‡
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¸÷¼

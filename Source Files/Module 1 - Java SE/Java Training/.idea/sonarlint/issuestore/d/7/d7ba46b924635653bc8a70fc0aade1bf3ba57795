@@ -1,0 +1,26 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "cityId".(Ó‡‚§ıÿÿÿÿ
+Y
+java:S1854"">Remove this useless assignment to local variable "escapeQuot".(³•Şÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³×——şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êç‹±
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’ÖÒÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“õæ–
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¹¿œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰¹í ÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(‹ğŒàşÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(êç‹±
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ş“Áè
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¿÷Ş¥
+S	java:S106."9Replace this use of System.out or System.err by a logger.(âˆö³şÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Åµ¬ùÿÿÿÿ
+F
+java:S1481"+Remove this unused "cityId" local variable.(Ó‡‚§ıÿÿÿÿ
+J
+java:S1481""/Remove this unused "escapeQuot" local variable.(³•Şÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òî¦ò
+e
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Éˆµ¢
+]
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ê·ûš
